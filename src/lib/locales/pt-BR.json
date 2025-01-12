@@ -17,7 +17,7 @@
 	},
 	"statuses": {
 		"UP": "OPERACIONAL",
-		"DOWN": "FORA DO AR",
+		"DOWN": "INDISPONÍVEL",
 		"DEGRADED": "FALHA"
 	},
 	"incident": {
@@ -27,7 +27,7 @@
 	},
 	"monitor": {
 		"share": "Compartilhar",
-		"badge": "Emblema",
+		"badge": "Indicador",
 		"embed": "Incorporar",
 		"mode": "Modo",
 		"status": "Status",
@@ -39,7 +39,7 @@
 		"today": "Hoje",
 		"90_day": "90 Dias",
 		"share_desc": "Compartilhar este monitor através do link",
-		"badge_desc": "Obter emblema em SVG deste monitor",
+		"badge_desc": "Obter indicador em SVG deste monitor",
 		"embed_desc": "Incorporar este monitor no seu aplicativo utilizando <script> ou <iframe>.",
 		"cp_link": "Copiar Link",
 		"cpd_link": "Link Copiado",
@@ -52,10 +52,10 @@
 		"status_ok": "Status OK",
 		"am": "am",
 		"pm": "pm",
-		"standard": "Standard",
-		"pinging": "Pinging",
-		"status_svg": "Status ao vivo",
-		"status_svg_desc": "Obtenha um status ao vivo para este monitor"
+		"standard": "Padrão",
+		"pinging": "Pingar",
+		"status_svg": "Status em tempo real",
+		"status_svg_desc": "Obter indicador em tempo real deste monitor"
 	},
 	"numbers": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 }
