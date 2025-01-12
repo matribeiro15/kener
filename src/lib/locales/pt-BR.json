@@ -16,8 +16,8 @@
 		"last_x_hours": "Últimas %hours horas"
 	},
 	"statuses": {
-		"UP": "EM OPERAÇÃO",
-		"DOWN": "FORA DE OPERAÇÃO",
+		"UP": "OPERACIONAL",
+		"DOWN": "FORA DO AR",
 		"DEGRADED": "FALHA"
 	},
 	"incident": {
@@ -52,8 +52,8 @@
 		"status_ok": "Status OK",
 		"am": "am",
 		"pm": "pm",
-		"standard": "Padrão",
-		"pinging": "Pingando",
+		"standard": "Standard",
+		"pinging": "Pinging",
 		"status_svg": "Status ao vivo",
 		"status_svg_desc": "Obtenha um status ao vivo para este monitor"
 	},
