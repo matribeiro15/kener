@@ -27,7 +27,7 @@
 	},
 	"monitor": {
 		"share": "Compartilhar",
-		"badge": "Indicador",
+		"badge": "Emblema",
 		"embed": "Incorporar",
 		"mode": "Modo",
 		"status": "Status",
@@ -39,7 +39,7 @@
 		"today": "Hoje",
 		"90_day": "90 Dias",
 		"share_desc": "Compartilhar este monitor através do link",
-		"badge_desc": "Obter indicador deste monitor em SVG",
+		"badge_desc": "Obter emblema deste monitor em SVG",
 		"embed_desc": "Incorporar este monitor no seu aplicativo utilizando <script> ou <iframe>.",
 		"cp_link": "Copiar Link",
 		"cpd_link": "Link Copiado",
@@ -53,9 +53,9 @@
 		"am": "am",
 		"pm": "pm",
 		"standard": "Padrão",
-		"pinging": "Pingar",
-		"status_svg": "Status em tempo real",
-		"status_svg_desc": "Obter indicador em tempo real deste monitor"
+		"pinging": "Animado",
+		"status_svg": "Status AO VIVO",
+		"status_svg_desc": "Obter indicador de status AO VIVO"
 	},
 	"numbers": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 }
