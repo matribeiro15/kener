@@ -1,6 +1,7 @@
 import en from "$lib/locales/en.json";
 import hi from "$lib/locales/hi.json";
 import ja from "$lib/locales/ja.json";
+import ptBR from "$lib/locales/pt-BR.json";
 import vi from "$lib/locales/vi.json";
 import zhCN from "$lib/locales/zh-CN.json";
 
@@ -12,6 +13,7 @@ const langMap = {
 	en,
 	hi,
 	ja,
+	"pt-BR": ptBR,
 	vi,
 	"zh-CN": zhCN
 };
